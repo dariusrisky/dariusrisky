@@ -2,7 +2,7 @@
 
 ![hellow](./hello.gif)
 
-- 🚀 Status: Student
+- 🚀 Status: Open to work
 - 👾 Hobbies: Pitpitan, MOLE ( Jungler, Mid novaria only )
 - ⚠️ Types: FATHER FATHER JOKES
 
