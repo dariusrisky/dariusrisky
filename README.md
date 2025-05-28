@@ -2,9 +2,10 @@
 
 ![hellow](./hello.gif)
 
-- 🚀 Status: Student
+- 🚀 Status: Open to work
 - 👾 Hobbies: Pitpitan, MOLE ( Jungler, Mid novaria only )
 - ⚠️ Types: FATHER FATHER JOKES
+- 💵 Selling: Company Profiles Web || BOT Telegram || Design UI/UX
 
 <a href="https://www.linkedin.com/in/risky-ramdani-darius"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:riskyramdani8fno26@gmail.com?subject=Hello, Risky"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
